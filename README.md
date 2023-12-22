@@ -1,5 +1,5 @@
 # Hi 👋 My name is Francisco Brito
-[![GitHub followers](https://img.shields.io/github/followers/tterb.svg?style=social&label=Follow)](https://github.com/FranciscoJBrito)
+![GitHub followers](https://img.shields.io/github/followers/FranciscoJBrito?style=social&link=https%3A%2F%2Fgithub.com%2FFranciscoJBrito)
 ---
 
 - 🌍  I'm based in Córdoba Argentina
