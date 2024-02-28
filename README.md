@@ -9,7 +9,6 @@
 
 <br/>
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65dbb9a0aec67f2e2a977234?variant=dark)](https://roadmap.sh)
 
 ### Support Me
 
