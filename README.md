@@ -8,8 +8,3 @@
 - 🤝  I'm open to collaborating on Projects developed in Ruby or JavaScript/TypeScript
 
 <br/>
-
-
-### Support Me
-
-<span style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/franciscobrito"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></span>
