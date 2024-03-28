@@ -7,4 +7,3 @@
 - 🧠  I'm learning Ruby on Rails
 - 🤝  I'm open to collaborating on Projects developed in Ruby or JavaScript/TypeScript
 
-<br/>
